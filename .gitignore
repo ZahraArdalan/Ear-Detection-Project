@@ -1,0 +1,23 @@
+
+### 3️⃣ **فایل `.gitignore`** (فایل‌های حذفی)
+```gitignore
+# فایل‌های پایتون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# محیط مجازی
+venv/
+env/
+.venv/
+
+# فایل‌های IDE
+.vscode/
+.idea/
+*.swp
+
+# داده‌های بزرگ
+*.pth
+*.h5
+*.weights
