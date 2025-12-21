@@ -1,4 +1,4 @@
-# ============ سیستم تشخیص واقعی تر ============
+
 import torch
 import torch.nn as nn
 from torchvision import models, transforms
@@ -14,7 +14,7 @@ print("🏥 EAR DETECTION SYSTEM v3.0")
 print("🎯 Enhanced Model with Image Analysis")
 print("=" * 70)
 
-# ============ ساخت مدل هوشمندتر ============
+# ============ ساخت مدل  ============
 class SmartEarDetector:
     def __init__(self):
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -708,8 +708,8 @@ with gr.Blocks(
                     <span>Real-time</span>
                 </div>
                 <div class="stat-badge" style="background: rgba(255,255,255,0.15);">
-                    <span>🎯</span>
-                    <span>95% Accurate</span>
+                    <span>👩‍💻</span>
+                    <span>Created by: Zahra Ardalan</span>
                 </div>
             </div>
         </div>
