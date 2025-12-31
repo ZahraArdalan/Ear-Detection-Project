@@ -9,6 +9,10 @@ https://drive.google.com/file/d/18jTBNx56nmmdZGKCkEcXMJMnv1OK6vP6/view?usp=shari
 
 https://drive.google.com/file/d/1As_uZ3fqEoaenJ-6ChU4BI4tTUPHCxr3/view?usp=sharing
 
+**dataset link**
+
+https://springernature.figshare.com/articles/dataset/BabyEar4k_dataset/24711528?file=43417890
+
 
 ## Features
 - Detects Normal, Lop Ear, and Stahl's Ear
